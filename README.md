@@ -2,7 +2,7 @@
 
 Meu portfolio pessoal, para a divulgação dos meus trabalhos.
 
-<img src="./assets/screenshot.png" alt="Portfolio">
+<img src="./assets/screeshot.png" alt="Portfolio">
 
 ## 🔨 Funcionalidades do projeto
 
